@@ -6,6 +6,8 @@ package WordList::Phrase::ID::Proverb::KBBI;
 use WordList;
 our @ISA = qw(WordList);
 
+# STATS
+
 1;
 # ABSTRACT: Proverb phrases from Kamus Besar Bahasa Indonesia
 
